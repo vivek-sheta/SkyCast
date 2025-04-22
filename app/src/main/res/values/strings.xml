@@ -1,0 +1,98 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">SkyCast</string>
+
+    <!-- Authentication -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+
+    <!-- Weather Screen -->
+    <string name="feels_like">Feels like: %s</string>
+    <string name="humidity">Humidity: %d%%</string>
+    <string name="wind_speed">Wind: %.1f m/s, %d°</string>
+    <string name="pressure">Pressure: %d hPa</string>
+    <string name="visibility">Visibility: %d km</string>
+    <string name="sunrise">Sunrise: %s</string>
+    <string name="sunset">Sunset: %s</string>
+    <string name="loading_weather">Loading weather data…</string>
+    <string name="weather_error">Error loading weather data</string>
+    <string name="current_location">Current Location</string>
+
+    <!-- Temperature Units -->
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+
+    <!-- Weather Conditions -->
+    <string name="weather_clear">Clear</string>
+    <string name="weather_clouds">Cloudy</string>
+    <string name="weather_rain">Rainy</string>
+    <string name="weather_snow">Snowy</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_mist">Misty</string>
+
+    <!-- Time Formats -->
+    <string name="time_format">h:mm a</string>
+    <string name="date_format">EEE, MMM d</string>
+
+    <!-- Menu Items -->
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_location">Change Location</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- Error Messages -->
+    <string name="error_no_network">No internet connection</string>
+    <string name="error_location_disabled">Location services disabled</string>
+    <string name="error_location_permission">Location permission required</string>
+    <string name="error_city_not_found">City not found</string>
+
+    <!-- Placeholders -->
+    <string name="placeholder_temperature">--°C</string>
+    <string name="placeholder_city">--</string>
+    <string name="placeholder_time">--:--</string>
+
+    <!-- Buttons -->
+    <string name="btn_search">Search</string>
+    <string name="btn_use_current_location">Use Current Location</string>
+    <string name="btn_google_sign_in">Sign in with Google</string>
+    <string name="settings">Settings</string>
+
+    <!-- Activity Setting -->
+    <string name="change_location">Change Location</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="update_location">Update Location</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout">Log Out</string>
+    <string name="location_updated">Location updated to: %s</string>
+    <string name="error_empty_city">Please enter a city name</string>
+    <string name="humidity_des">Humidity</string>
+    <string name="humidity_val">Humidity: 65%</string>
+    <string name="wind_des">Wind</string>
+    <string name="wind_val">Wind: 12 km/h NW</string>
+    <string name="pressure_des">Pressure</string>
+    <string name="pressure_val">Pressure: 1012 hPa</string>
+    <string name="visibility_des">Visibility</string>
+    <string name="visibility_val">Visibility: 10 km</string>
+    <string name="sunrise_des">Sunrise</string>
+    <string name="sunrise_val">Sunrise</string>
+    <string name="time_mor">6:45 AM</string>
+    <string name="sunset_des">Sunset</string>
+    <string name="time_night">Sunset</string>
+    <string name="time_night_val">7:30 PM</string>
+    <string name="weather_icon_des">Weather icon</string>
+    <string name="weather_val">17°C</string>
+    <string name="weather_def_val">Cloudy</string>
+    <string name="feels_like_val">Feels like: 15°C</string>
+    <string name="location_val">Location</string>
+    <string name="calgary_city">Calgary, CA</string>
+    <string name="update_location_maps">Update location Maps</string>
+
+</resources>
